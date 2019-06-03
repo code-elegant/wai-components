@@ -31,7 +31,8 @@ footer: >   # Do not change these dates.
 <!-- @@ translation comment: # the images being in French, should the URI be translated? → /fr -->
 	2. Incluez l’attribution à l’artiste, l’éditeur, et la mention de copyright dans tous les travaux publiés ou diffusés&nbsp;:<br>
 <!-- @@ translation comment: # what about the translator? -->
-	<cite>Image par Michael Duffy, depuis: Essential Components of Web  Accessibility. Éditeur S.L. Henry. Copyright W3C <sup>®</sup> (MIT, ERCIM, Keio, Beihang). w3.org/WAI/fundamentals/components/</cite><br>
+<!-- @@	<cite>Image par Michael Duffy, depuis: Essential Components of Web  Accessibility. Éditeur S.L. Henry. Copyright W3C <sup>®</sup> (MIT, ERCIM, Keio, Beihang). w3.org/WAI/fundamentals/components/</cite><br>
+-->
 <!-- @@ translation comment: # the images being in French, should the title “Essential Components of Web Accessibility” and the URI be translated? -->
 	Pour plus d’informations, voir <a href="https://www.w3.org/WAI/about/usingWAImaterial.html">Using WAI Materials (en anglais)</a>.
 <!-- @@ translation comment: # hreflang=”en”? lang=”en”? -->
