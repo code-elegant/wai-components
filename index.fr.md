@@ -24,6 +24,7 @@ permalink: /fundamentals/components/fr   # Add the language shortcode to the end
 feedbackmail: wai@w3.org
  
 footer: >   # Do not change these dates.
+<!--
   <p># a strange mixed between the English and the French versions, IMHO
 	<strong>Autorisation d’exploitation&nbsp;:</strong>
 	Vous pouvez utiliser les images de cette page pour l’éducation à l’accessibilité et son rayonnement si vous:<br>
@@ -40,6 +41,7 @@ footer: >   # Do not change these dates.
 # February → février ? hreflang=”en” ?
   <p><strong>Éditeur&nbsp;:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Graphiste&nbsp;: Michael Duffy.</p>
   <p>Élaboré avec des contributions du groupe de travail «&nbsp;Éducation et Rayonnement&nbsp;» (<span lang=”en”>Education and Outreach Working Group</span>) (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  -->
  
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-components/blob/master/README.md
